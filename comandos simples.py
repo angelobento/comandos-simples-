@@ -1,4 +1,4 @@
-frase = (input("digite uma frase:"))#conta quantas vogal e consuantes tem na string
+frase = (input("digite uma frase:"))#conta quantas vogal e consoantes tem na string
 v=frase.count("a")
 o=frase.count("e")
 g=frase.count("i")
@@ -26,10 +26,10 @@ w=frase.count("w")
 x=frase.count("x")
 y=frase.count("y")
 z=frase.count("z")
-consuantes= b+c+d+f+G+h+j+k+l+m+n+p+q+r+s+t+V+w+x+y+z
+consoantes= b+c+d+f+G+h+j+k+l+m+n+p+q+r+s+t+V+w+x+y+z
 #print("sua frase tem {} letras A, {} letras E, {} letras I, {} letras o e {} letras U".format(v,o,g,a,l))
 #print ("sua frase tem {} vogal".format(vogal))
-print("sua frase tem {} vogal e {} consuantes".format(vogal, consuantes))
+print("sua frase tem {} vogal e {} consoantes".format(vogal, consoantes))
 
 
 
